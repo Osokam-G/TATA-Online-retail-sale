@@ -1,6 +1,6 @@
 # TATA Online Retail Sales Overview
 
-A Power BI dashboard summarizing online retail products, orders, net revenue, and quantity sold, with country and month filters.
+A Power BI Project analysis of online retail products, orders, net revenue, and quantity sold, with country and month filter
 
 ## Table of Contents
 
